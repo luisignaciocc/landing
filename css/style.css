@@ -2,9 +2,9 @@ html {
   height: 100%;
 }
 body {
-  background: #050a10
-    url('https://user-images.githubusercontent.com/30051417/120047409-892eec80-bfe2-11eb-9ffb-120431b1bae8.jpg')
-    no-repeat center center fixed;
+  background: #cee7f9
+    url('https://react-next-pokedex.vercel.app/images/welcome-background.png')
+    repeat center center fixed;
   background-size: auto auto;
   position: fixed;
   padding: 0px;
